@@ -17,11 +17,11 @@ The source Python codes are in the "**SRC**" directory. The simulation workflow 
 
 # Model result analysis
 
-These are available as a Jupyternotebook (IPYNB) file. 
+These are available as a Jupyternotebook (IPYNB) files. 
   
   - Download the IPYNB file locally (Field_Vertical.ipynb, Field_horizontal.ipynb, Lab_dispersivity.ipynb or Additional.ipynb) from the **ipynb** folder
   - Download the corresponding **.xlsx** file from the **database** folder
-  - Make required changes in the **PATH** where the downloaded **.xlsx** files are available
+  - Make required changes in the **PATH** where the downloaded **.xlsx** files are available - **MAKE SURE THIS IS ALWAYS DONE**
   - Make sure to have required (open-source Python libraries such as numpy, matplotlib, scipy, pandas and LMFIT) installed in your Python setup
   - Excute the ipynb file to obtain numerical results or graphics
   
