@@ -3,7 +3,7 @@
 The repo provides AEM model code used for quantifying $alpha_{Tv}$ and $alpha_{Th}$ and includes site database which are used in 
 the model. IPYNB file provides the analysis of the obtained results including graphical output used in the documentation.
 
-All contents of the repo are licensed under CC-BY-4.0 wording - basically credit the original author for their efforts.
+All contents of the repo are licensed under [CC-BY-4.0 wordings](https://creativecommons.org/licenses/by/4.0/deed.en) - basically credit the original author for their efforts.
 
 # Using the inverse AEM model
 
@@ -25,4 +25,5 @@ These are available as a Jupyternotebook (IPYNB) file.
   - Make sure to have required (open-source Python libraries such as numpy, matplotlib, scipy, pandas and LMFIT) installed in your Python setup
   - Excute the ipynb file to obtain numerical results or graphics
   
-> **The source code are updated and some details mentioned above may not apply. Pls. contact the authors in such a case**
+  
+> **The source code are updated and some details mentioned above may not apply. Pls. raise an issue in the GitHub in such a case**
